@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 ##### tech stack
-<img src="https://img.shields.io/badge/HTML-FFEDBC?style=flat-square&logo=html&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-348ac7?style=flat-square&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/js-ffd452?style=flat-square&logo=js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-FFEDBC?style=flat-square&logo=html&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-348ac7?style=flat-square&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/js-ffd452?style=flat-square&logo=java script&logoColor=white"/>
