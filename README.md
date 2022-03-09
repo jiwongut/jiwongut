@@ -1,4 +1,4 @@
-### Hi there 👋
+### jiwongut
 
 <!--
 **jiwongut/jiwongut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwongut)](https://github.com/jiwongut/github-readme-stats)
+
+<img src="https://img.shields.io/badge/HTML-FFEDBC?style=flat-square&logo=html&logoColor=white"/>
