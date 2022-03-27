@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=40:FFEEEE,60:DDEFBB&height=150&section=header&text=jiwongut&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=60:DAE2F8,40:D6A4A4&height=150&section=header&text=jiwongut&fontSize=50&fontColor=ffffff)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwongut)](https://github.com/jiwongut/github-readme-stats)
